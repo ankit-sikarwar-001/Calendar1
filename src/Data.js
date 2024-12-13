@@ -79,4 +79,64 @@ export const Events = [
     start: "00:00 Am",
     end: "11:59 Pm",
   },
+  {
+    day: "02",
+    month: "1",
+    year: "2025",
+    name: "Vasant Panchami",
+    image:
+      "https://navi.com/blog/wp-content/uploads/2023/01/Basant-Panchami-Holiday.jpg",
+    start: "00:00 Am",
+    end: "11:59 Pm",
+  },
+  {
+    day: "14",
+    month: "1",
+    year: "2024",
+    name: "Vasant Panchami",
+    image:
+      "https://navi.com/blog/wp-content/uploads/2023/01/Basant-Panchami-Holiday.jpg",
+    start: "00:00 Am",
+    end: "11:59 Pm",
+  },
+  {
+    day: "14",
+    month: "2",
+    year: "2025",
+    name: "Holi",
+    image:
+      "https://www.hindustantimes.com/ht-img/img/2024/03/20/1600x900/98fe5d5c96f16f61ff_1710922427406_1710922427664.jpg",
+    start: "00:00 Am",
+    end: "11:59 Pm",
+  },
+  {
+    day: "25",
+    month: "2",
+    year: "2024",
+    name: "Holi",
+    image:
+      "https://www.hindustantimes.com/ht-img/img/2024/03/20/1600x900/98fe5d5c96f16f61ff_1710922427406_1710922427664.jpg",
+    start: "00:00 Am",
+    end: "11:59 Pm",
+  },
+  {
+    day: "20",
+    month: "9",
+    year: "2025",
+    name: "Diwali",
+    image:
+      "https://static.toiimg.com/thumb/msid-114348227,width-1070,height-580,imgsize-78294,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    start: "00:00 Am",
+    end: "11:59 Pm",
+  },
+  {
+    day: "31",
+    month: "9",
+    year: "2024",
+    name: "Diwali",
+    image:
+      "https://static.toiimg.com/thumb/msid-114348227,width-1070,height-580,imgsize-78294,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    start: "00:00 Am",
+    end: "11:59 Pm",
+  },
 ];
